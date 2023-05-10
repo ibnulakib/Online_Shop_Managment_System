@@ -15,7 +15,7 @@ if (isset($_POST["submit"])) {
 		
 		
 		
-		$fullname = $_POST["fullname"];;
+		$fullname = $_POST["fullname"];
 		$email = $_POST["email"];
 		$address = $_POST["adr"];
 		$city = $_POST["city"];
